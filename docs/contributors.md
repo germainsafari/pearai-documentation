@@ -1,4 +1,4 @@
----
+ ---
 title: 🌟 Contributing 101
 description: Discover the talented individuals who contribute to this app.
 keywords: [contributors]
